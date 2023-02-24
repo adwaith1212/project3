@@ -1,0 +1,101 @@
+.parent{
+    height: 474px;
+    /* background-color: grey; */
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+    
+}
+h1{
+    color: bisque;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 45px;
+}
+h1:hover{
+    color: rgb(213, 206, 11);
+}
+.col{
+    width: 240px;
+    height: 465px;
+    border: rgb(58, 57, 57) solid
+    
+    
+
+}
+.col-1{
+    background-color:black;
+    border-radius: 10px;
+    
+    
+}
+.col-2{
+    background-color: black;
+    border-radius: 10px;
+
+}
+.col-3{
+    background-color: black;
+    border-radius: 10px;
+}
+.col-4{
+    background-color: black;
+    border-radius: 10px;
+}
+.col-5{
+    background-color: black;
+    border-radius: 10px;
+}
+h2{
+    color: bisque;
+    text-align: center;
+    font-style: oblique;
+    
+}
+.c1:hover{
+    color: rgb(199, 168, 13);
+}
+img{
+    width: 233px;
+    height: 203px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: rgb(29, 29, 27) solid;
+}
+p{
+  color: bisque;
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+button{
+    width: 117px;
+    height: 33px;
+  margin-left: 59px;
+  margin-bottom: 6px;
+  border-radius: 10px;
+}
+a{
+    position: relative;
+    left: 905px;
+    bottom: 55px;
+}
+button:hover{
+    background-color: rgb(196, 190, 6);
+}
+body{
+    background-color:black
+}
+#a2{
+    margin-left: 110px;
+}
+
+
+
+
+
+
+
+
+
+
